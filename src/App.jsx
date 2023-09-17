@@ -4,16 +4,19 @@ import Body from './Components/Body';
 import Footer from './Components/Footer';
 import StorageDemo from './Components/StorageDemo';
 import ParentComponent from './Components/ParentComponent';
-import { FullPage } from './Components/Styles'; 
+import { FullPage, adicionarBordaAImagens } from './Components/Styles'; 
+
 
 function App() {
   return (
     <FullPage> 
-      <Header />
-      <Body />
-      <StorageDemo />
-      <ParentComponent />
-      <Footer />
+      <adicionarBordaAImagens>
+        <Header />
+        <Body />
+        <StorageDemo />
+        <ParentComponent />
+        <Footer />
+      </adicionarBordaAImagens>
     </FullPage>
   );
 }
