@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import ChildComponent from './ChildComponent';
 
 function ParentComponent() {
-  const [message, setMessage] = useState('Olá, mundo!');
+  const [message, setMessage] = useState('Olá, mundo');
 
   return (
     <div>

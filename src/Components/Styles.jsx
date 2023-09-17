@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 export const adicionarBordaAImagens = () => `
   img {
-    border: 2px solid #000; /* Adicione seus estilos de borda personalizados aqui */
+    border: 2px solid #000; 
   }
 `;
 
@@ -20,5 +20,5 @@ export const FullPage = styled.div`
   font-size: 20px;
   text-align: center;
 
-  ${adicionarBordaAImagens()} /* Aplica a função aos elementos 'img' dentro deste componente */
+  ${adicionarBordaAImagens()} 
 `;
