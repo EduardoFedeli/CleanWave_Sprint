@@ -4,19 +4,19 @@ import Body from './Components/Body';
 import Footer from './Components/Footer';
 import StorageDemo from './Components/StorageDemo';
 import ParentComponent from './Components/ParentComponent';
-import './index.css';
-
+import { FullPage } from './Components/Styles'; 
 
 function App() {
   return (
-    <div className="App">
+    <FullPage> 
       <Header />
       <Body />
-      <Footer />
       <StorageDemo />
       <ParentComponent />
-    </div>
+      <Footer />
+    </FullPage>
   );
 }
 
 export default App;
+

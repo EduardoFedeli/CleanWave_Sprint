@@ -22,7 +22,7 @@ function Body() {
                             <header>
             
                                 <h2>Vaso Smart</h2>
-                                <img src={vasoImage} alt="Vaso" style={{ width: '300px', height: '300px' }} />
+                                <img src={vasoImage} alt="Vaso" style={{ width: '200px', height: '200px' }} />
           
                             </header>
           
@@ -42,8 +42,8 @@ function Body() {
           
                             <header>
             
-                                <h2>Nome do Produto 2</h2>
-                                <img src={vasoImage2} alt="Vaso" style={{ width: '300px', height: '300px' }} />
+                                <h2>Vaso Inteligente Design</h2>
+                                <img src={vasoImage2} alt="Vaso" style={{ width: '200px', height: '200px' }} />
           
                              </header>
           
@@ -64,8 +64,8 @@ function Body() {
           
                             <header>
             
-                                <h2>Nome do Produto 3</h2>
-                                <img src={vasoImage3} alt="Vaso" style={{ width: '300px', height: '300px' }} />
+                                <h2>Vaso Inteligente Econômico</h2>
+                                <img src={vasoImage3} alt="Vaso" style={{ width: '200px', height: '200px' }} />
 
                             </header>
           
@@ -84,7 +84,7 @@ function Body() {
 
 
         <video controls>
-            <source src={videoSource} type="video/mp4" style={{ width: '350px', height: '200px' }} />""
+            <source src={videoSource} type="video/mp4" style={{ width: '200px', height: '200px' }} />""
             Seu navegador não suporta o elemento de vídeo.
         </video>
     

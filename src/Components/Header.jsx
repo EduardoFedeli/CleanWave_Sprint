@@ -1,9 +1,10 @@
 import React from 'react';
+import Logo from './Assets/Imagens/logo sem fundo.png';
 
 function Header() {
   return (
     <header>
-      {/* Conteúdo do cabeçalho */}
+      <img src={Logo} alt="Logo" />
     </header>
   );
 }

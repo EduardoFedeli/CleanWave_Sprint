@@ -1,9 +1,10 @@
 import React from 'react';
+import Logo from './Assets/Imagens/logo sem fundo.png';
 
 function Footer() {
   return (
     <footer>
-      {/* Conteúdo do rodapé */}
+      <img src={Logo} alt="Logo" />
     </footer>
   );
 }
