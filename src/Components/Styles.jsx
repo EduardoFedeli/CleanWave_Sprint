@@ -11,6 +11,7 @@ export const FullPage = styled.div`
   background: linear-gradient(to bottom, #0074cc, #3d6cb3, #003f87);
   font-weight: bold;
   font-size: 20px;
+  text-align: center;
 `;
 
 

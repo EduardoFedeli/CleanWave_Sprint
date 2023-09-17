@@ -26,7 +26,7 @@ function Body() {
           
                             </header>
           
-                            <p>Descrição do Produto 1...</p>
+                            <p>Este vaso utiliza sensores para monitorar o nível de umidade do solo e automaticamente irriga suas plantas quando necessário, garantindo que elas recebam a quantidade certa de água.</p>
           
                             <footer>
                                 <p>Preço: R$ 100,00</p>
@@ -47,7 +47,7 @@ function Body() {
           
                              </header>
           
-                            <p>Descrição do Produto 2...</p>
+                            <p>Esse vaso permite que você controle o cuidado das suas plantas por meio de um aplicativo móvel, oferecendo informações em tempo real sobre o estado das plantas, como luz solar, umidade e fertilização.</p>
           
                             <footer>
                                 <p>Preço: R$ 120,00</p>
@@ -69,7 +69,7 @@ function Body() {
 
                             </header>
           
-                            <p>Descrição do Produto 3...</p>
+                            <p>Este vaso utiliza tecnologia avançada para acelerar o crescimento das plantas, proporcionando condições ideais de luz, umidade e temperatura, resultando em plantas mais saudáveis e exuberantes em menos tempo.</p>
           
                             <footer>
                                 <p>Preço: R$ 80,00</p>
